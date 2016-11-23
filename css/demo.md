@@ -1,2 +1,0 @@
-# demo file
-content test
